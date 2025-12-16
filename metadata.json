@@ -1,0 +1,7 @@
+{
+  "name": "Professional Interview Tracker",
+  "description": "A robust, professional interview tracking application with data persistence via IndexedDB, visualization dashboards, and Kanban-style management for career advancement.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
